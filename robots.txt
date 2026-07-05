@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kromkonsalting.ba/sitemap.xml
+Sitemap: https://krom-konsalting.github.io/sitemap.xml
