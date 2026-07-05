@@ -1,4 +1,4 @@
-# KROM KONSALTING — sajt
+# KROM KONSALTING — sajt 
 
 Statični sajt (HTML/CSS/JS, bez servera i baze) — spreman za besplatan hosting.
 
